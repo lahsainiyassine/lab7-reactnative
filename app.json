@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tp7-textinput-loginscreen",
+    "slug": "tp7-textinput-loginscreen",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
